@@ -26,3 +26,5 @@ You will also have a git repo for every project - so name these wisely as well!
 >>>>>>>>Task 2 - Go and sign up for repl.it using your school email address.
 
 >> confirm here that you have managed to sign up, and push the changes to the git repo again, to update this file. 
+
+This is an additional change for testing. No action required
